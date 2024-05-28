@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct HarryPotterTriviaApp: App {
+ struct HarryPotterTriviaApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
